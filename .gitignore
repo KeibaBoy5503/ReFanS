@@ -1,0 +1,20 @@
+# Visual Studio 빌드 결과물 및 임시 파일 제외
+[Bb]in/
+[Oo]bj/
+ReleaseApp/
+.vs/
+*.user
+*.suo
+
+# 내 개인 테스트용 DB 및 설정 파일 제외
+database.json
+folders.json
+custom_tags.json
+user_prefs.json
+workspace_config.txt
+exported_reference.json
+
+# 내가 테스트로 넣은 로컬 이미지/미디어 폴더 제외
+Images/
+Media/
+Icons/
