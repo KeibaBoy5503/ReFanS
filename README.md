@@ -8,7 +8,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20(x64)-007ACC?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/.NET-10.0%20WPF-512BD4?style=for-the-badge&logo=dotnet" />
- 
+</p>
+
+<p align="center">
+  <b>English</b> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a>
+</p>
+
 >  Latest version : v1.2.3
 
 ---
