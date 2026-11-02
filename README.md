@@ -98,4 +98,3 @@ Each color code can be copied to the clipboard and is tagged in the filter list 
 ---
 <p align="center">Designed & Developed by <b>KeibaBoy5503</b></p>
 <p align="center">Copyright  <b>KeibaBoy5503</b>. All rights reserved.</p>
-
